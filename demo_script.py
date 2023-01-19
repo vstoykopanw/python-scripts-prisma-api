@@ -8,8 +8,8 @@ ag_url = "https://api4.prismacloud.io/cloud/group"
 acc_onboard_url = "https://api4.prismacloud.io/cloud/aws"
 
 creds = {                                                  
-    "username":"07b34dc9-dc8b-4b85-8316-279a04757a38",
-    "password":"JKvnSADV3qILgKww2ZxNz72RFhg="
+    "username":"",
+    "password":""
 }
 
 
